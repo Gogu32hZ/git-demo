@@ -3,8 +3,6 @@
 This is the first file in this repo.
 
 
-## Ipsum Below
+## Site contents
 
-Whatever text bla bla
-
-Bla bla bla 2
+1. index.html
